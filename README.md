@@ -4,7 +4,7 @@
 ## About The Project
 This project is part of my journey learning automation testing using Selenium with Python. It includes my initial tests and homework assignments, showcasing my steps towards mastering web automation testing.
 
-## Lessons
+### Lessons
 - [Lesson 1](lesson_1/test-case.md)
 
 ### Technologies Used
