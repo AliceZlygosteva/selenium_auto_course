@@ -4,6 +4,9 @@
 ## About The Project
 This project is part of my journey learning automation testing using Selenium with Python. It includes my initial tests and homework assignments, showcasing my steps towards mastering web automation testing.
 
+## Lessons
+- [Lesson 1](lesson_1/test-case.md)
+
 ### Technologies Used
 - **Python**: The main programming language used for writing automation scripts.
 - **Selenium**: A powerful tool for web browser automation, allowing interaction with web pages for testing purposes.
