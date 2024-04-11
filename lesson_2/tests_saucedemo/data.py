@@ -1,0 +1,11 @@
+# AUTH
+
+LOGIN_VALUE = 'standard_user'
+PASSWORD_VALUE = 'secret_sauce'
+LOGIN_WRONG_VALUE = 'user'
+PASSWORD_WRONG_VALUE = 'user'
+
+# CHECKOUT
+FIRST_NAME_VALUE = 'Name'
+LAST_NAME_VALUE = 'LastName'
+POSTAL_CODE_VALUE = '123456'

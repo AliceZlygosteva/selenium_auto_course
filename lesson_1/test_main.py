@@ -28,10 +28,10 @@ def test_auth_positive():
 def test_auth_negative():
     browser.get('https://www.saucedemo.com/')
 
-    # вводим  невалидный логин в поле 'Username'
+    # вводим невалидный логин в поле 'Username'
     browser.find_element(By.XPATH, '//*[@id="user-name"]').send_keys('user')
 
-    # вводим  невалидный пароль в поле 'Username'
+    # вводим невалидный пароль в поле 'Password'
     browser.find_element(By.XPATH, '//*[@id="password"]').send_keys('user')
 
     # кликаем на кнопку 'Login'
